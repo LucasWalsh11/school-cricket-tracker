@@ -1,4 +1,4 @@
-echo '<!DOCTYPE html>
+'<!DOCTYPE html>
 <html>
 <head>
     <title>School Cricket Tracker</title>
